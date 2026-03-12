@@ -19,8 +19,7 @@
 - **Languages:** Python, SQL, C++  
 - **Data:** Pandas, NumPy, Scikit-learn, XGBoost  
 - **APIs & Backend:** FastAPI, Flask, REST  
-- **Automation:** n8n, Airflow (basic)  
-- **ML & AI:** Time Series Forecasting, RAG Systems, LLM APIs  
+- **ML & AI:** Time Series Forecasting, NLP, Recommender Systems & Ranking  
 
 ---
 
