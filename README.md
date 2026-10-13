@@ -12,13 +12,13 @@ Most of my work lives somewhere between **machine learning**, **data engineering
 
 A full NLP pipeline that moves from TF-IDF baselines to RoBERTa, DeBERTa, and robust ensembles.
 
-**The fun part:** it finished **1st out of 220 participants** with a **0.761 Macro-F1** score.
+**Key result:** it finished **1st out of 220 participants** with a **0.761 Macro-F1** score.
 
 ### 🎬 [Neural Ranking Under Noise](https://github.com/matteosisti/neural-ranking-under-noise)
 
 A Two-Tower recommendation system trained on MovieLens 20M, plus an investigation into what happens when training data gets noisy.
 
-**The fun part:** an **11× training speedup** and some surprising evidence that random noise can behave like regularization.
+**Key result:** an **11× training speedup** and some surprising evidence that random noise can behave like regularization.
 
 ### 🧩 [segdatakit](https://github.com/matteosisti/segdatakit)
 
